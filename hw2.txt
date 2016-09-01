@@ -1,0 +1,8 @@
+Q1: http://www.sqlfiddle.com/#!15/4a950/5
+Q2: http://www.sqlfiddle.com/#!9/00ecaf/1
+Q3: http://www.sqlfiddle.com/#!9/710aa2/1
+Q4: http://www.sqlfiddle.com/#!9/4fa7b/1
+Q5: http://www.sqlfiddle.com/#!9/3638de/1
+Q5 Bonus# 1: http://www.sqlfiddle.com/#!9/3638de/5
+Q5 Bonus# 2: http://www.sqlfiddle.com/#!9/00711/1
+Q5 Bonus# 3: http://www.sqlfiddle.com/#!9/3638de/4

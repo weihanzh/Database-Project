@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Style id="z1">
+<IconStyle><Icon><href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href></Icon></IconStyle>
+<LineStyle>
+    <color>#f0f00000</color>
+    <width>5</width>
+</LineStyle>
+</Style>
+<Placemark><name>Leavey Library</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28294340748388,34.0218395350097</coordinates></Point>
+</Placemark>
+<Placemark><name>Jefferson/Figueroa</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28035329479563,34.02187935079822</coordinates></Point>
+</Placemark>
+<Placemark><name>Figueroa/Exposition</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28231072064328,34.01848949960807</coordinates></Point>
+</Placemark>
+<Placemark><name>Exposition/Vermont</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29137801607542,34.01847529217784</coordinates></Point>
+</Placemark>
+<Placemark><name>Vermont/Jefferson</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29136636670195,34.02533690626065</coordinates></Point>
+</Placemark>
+<Placemark><name>Health Center</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28872903419821,34.025086013518254</coordinates></Point>
+</Placemark>
+<Placemark><name>OHE</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28971270972929,34.02054008314139</coordinates></Point>
+</Placemark>
+<Placemark><name>Bookstore</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.28647680515556,34.0207489199106</coordinates></Point>
+</Placemark>
+<Placemark><name>My_Apartment</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.29050208974653,34.0272457439291</coordinates></Point>
+</Placemark>
+<Placemark> 
+<styleUrl>#z1</styleUrl>
+ <LineString>
+  <coordinates>
+   -118.29050208974653,34.0272457439291,0. 
+   -118.291366366702,34.0253369062606,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+<styleUrl>#z1</styleUrl>
+ <LineString>
+  <coordinates>
+   -118.29050208974653,34.0272457439291,0. 
+   -118.288729034198,34.0250860135183,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+<styleUrl>#z1</styleUrl>
+ <LineString>
+  <coordinates>
+   -118.29050208974653,34.0272457439291,0. 
+   -118.289712709729,34.0205400831414,0.
+  </coordinates>
+ </LineString>
+</Placemark>
+<Placemark> 
+ <LineString>  
+  <coordinates>
+   -118.291378016075,34.0184752921778,0. 
+   -118.291366366702,34.0253369062606,0.
+   -118.290502089747,34.0272457439291,0.
+   -118.280353294796,34.0218793507982,0.
+   -118.282310720643,34.0184894996081,0.
+   -118.291378016075,34.0184752921778,0.
+  </coordinates>
+ </LineString>
+ <Style> 
+  <LineStyle>  
+   <color>#a00000ff</color>
+   <width>5</width>
+  </LineStyle> 
+ </Style>
+</Placemark>
+</Document></kml>
